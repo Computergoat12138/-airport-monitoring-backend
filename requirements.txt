@@ -1,0 +1,5 @@
+paho-mqtt
+pymysql
+influxdb-client
+fastapi
+uvicorn
